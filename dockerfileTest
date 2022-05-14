@@ -1,3 +1,0 @@
-FROM starter:latest
-WORKDIR /simple-typescript-starter/
-RUN npm run test
